@@ -1,0 +1,11 @@
+Sample_ID,Depth_m,Porosity_pct,Permeability_mD,Lithology
+S-101,1520.5,18.4,120.5,Sandstone
+S-102,1523.0,15.2,45.2,Sandstone
+S-103,1525.5,8.1,2.1,Shale
+S-104,1528.0,22.0,350.0,Sandstone
+S-105,1530.5,12.5,15.8,Limestone
+S-106,1533.0,19.8,210.0,Sandstone
+S-107,1535.5,6.4,0.5,Shale
+S-108,1538.0,14.1,38.4,Limestone
+S-109,1540.5,21.5,290.1,Sandstone
+S-110,1543.0,11.0,8.3,Limestone
